@@ -14,7 +14,7 @@
 
   <body>
   <p>
-          请访问: <a href="/h1">h1</a>
+          请访问: <a href="/h1.html">h1</a>
         </p>
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
